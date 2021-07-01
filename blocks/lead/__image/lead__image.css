@@ -12,18 +12,18 @@
     }
 }
 @media screen and (max-width:1023px){
-.lead__image{
-    max-width:768px;
-    max-height:480px;
-    margin:56px 0 0;
-}
+    .lead__image{
+        max-width:768px;
+        max-height:480px;
+        margin:56px 0 0;
+    }
 }
 
 @media screen and (max-width:767px){
-.lead__image{
-    max-width:320px;
-    max-height:200px;
-    margin:40px 0 0;
-    width: 100%;
-}
+    .lead__image{
+        max-width:320px;
+        max-height:200px;
+        margin:40px 0 0;
+        width: 100%;
+    }
 }

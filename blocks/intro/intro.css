@@ -8,13 +8,13 @@
 @media screen and (max-width:1279px) {
     .intro{
         max-width: 928px;
-}
+    }
 }
 
 @media screen and (max-width:1023px){
    .intro{
         max-width: 768px;
-}
+    }
 }
 
 @media screen and (max-width:767px){
@@ -22,5 +22,5 @@
         margin:64px auto;
         width:100%;
         padding: 0 16px;
-}
+    }
 }
