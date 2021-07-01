@@ -1,0 +1,18 @@
+.website__url-heading{
+    font-size: 12px;
+    line-height: 170%;
+    letter-spacing: 2px;
+    color:#AAAAAA;
+}
+
+@media screen and (max-width:1023px){
+   .website__url-heading{
+        line-height: 12px;
+}
+}
+
+@media screen and (max-width:767px){
+   .website__url-heading{
+        line-height: 12px;
+}
+}
