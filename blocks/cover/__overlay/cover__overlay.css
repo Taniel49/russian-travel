@@ -1,0 +1,15 @@
+.cover__overlay{
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    background: rgba(42, 44, 47, .3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100%
+}
+
+.cover__overlay:hover{
+    background: rgba(42, 44, 47, .8);
+}
