@@ -13,16 +13,13 @@
 }
 @media screen and (max-width:1023px){
     .lead__image{
-        max-width:750px;
-        max-height:480px;
-        margin:56px 0 0;
+        width:100%;
     }
 }
 
 @media screen and (max-width:767px){
     .lead__image{
-        max-width:300px;
-        max-height:200px;
+        width: 100%;
         margin:40px 0 0;
     }
 }

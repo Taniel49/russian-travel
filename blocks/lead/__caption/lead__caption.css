@@ -4,11 +4,11 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     max-width: 984px;
+    margin: 8px 0 0;
 }
 
 @media screen and (max-width:1279px) {
     .lead__caption{
-        max-width: 928px;
     }
 }
 
@@ -21,6 +21,5 @@
 @media screen and (max-width:767px){
    .lead__caption{
        padding-left: 16px;
-       text-align: center;
     }
 }

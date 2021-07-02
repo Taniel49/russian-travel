@@ -13,13 +13,11 @@
 @media screen and (max-width:1023px){
     .photo-grid__item{
         max-height: 352px;
-        max-width: 100%;
     }
 }
 
 @media screen and (max-width:767px){
     .photo-grid__item{
-        max-height: 288px;
-        max-width: 100%;
+        max-height: 100%;
     }
 }

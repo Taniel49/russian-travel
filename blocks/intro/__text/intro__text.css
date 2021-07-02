@@ -11,11 +11,3 @@
         max-width: 720px;
     }
 }
-
-@media screen and (max-width:767px){
-   .intro__text{
-        padding: 40px 0 34px;
-        margin-right: 16px;
-        margin-left: 16px;
-    }
-}
