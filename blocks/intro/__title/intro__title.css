@@ -10,5 +10,6 @@
        font-size: 32px;
        line-height: 35px;
        padding: 0 16px;
+       max-width: 500px;
     }
 }

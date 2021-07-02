@@ -9,8 +9,8 @@
 
 @media screen and (max-width:1279px) {
     .photo-grid{
-        grid-template-columns: repeat(3,300px);
-        grid-template-rows: repeat(4,225px);
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(4,1fr);
         gap:14px;
         max-width: 928px;
     }
@@ -18,8 +18,8 @@
 
 @media screen and (max-width:1023px){
    .photo-grid{
-        grid-template-columns: repeat(2,352px);
-        grid-template-rows: repeat(6,264px);
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: repeat(6,1fr);
         gap:16px;
         max-width: 720px;
     }
@@ -27,8 +27,8 @@
 
 @media screen and (max-width:767px){
    .photo-grid{
-        grid-template-columns: repeat(1,288px);
-        grid-template-rows: repeat(12,216px);
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(12,1fr);
         gap:16px;
         max-width: 288px;
     }

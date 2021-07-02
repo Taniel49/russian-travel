@@ -6,20 +6,20 @@
 @media screen and (max-width:1279px) {
    .photo-grid__item{
         max-height: 300px;
-        max-width: 225px;
+        max-width: 100%;
     }
 }
 
 @media screen and (max-width:1023px){
     .photo-grid__item{
         max-height: 352px;
-        max-width: 264px;
+        max-width: 100%;
     }
 }
 
 @media screen and (max-width:767px){
     .photo-grid__item{
         max-height: 288px;
-        max-width: 216px;
+        max-width: 100%;
     }
 }
